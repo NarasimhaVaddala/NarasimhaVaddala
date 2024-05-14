@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Narasimha Vaddala</h1>
 <h3 align="center">A passionate Web developer from Hyderabad , India</h3>
 
-
+<br/><br/>
 
 <p align="left"> <a href="https://twitter.com/narasimha_62" target="blank"><img src="https://img.shields.io/twitter/follow/narasimha_62?logo=twitter&style=for-the-badge" alt="narasimha_62" /></a> </p>
 
