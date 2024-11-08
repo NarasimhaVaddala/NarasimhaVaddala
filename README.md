@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/narasimha_62" target="blank"><img src="https://img.shields.io/twitter/follow/narasimha_62?logo=twitter&style=for-the-badge" alt="narasimha_62" /></a> </p>
 
-- 💬 Ask me about **ReactJs, NodeJs, MongoDb, ExpressJs, Sql**
+- 💬 Ask me about **ReactJs, NodeJs, MongoDb, ExpressJs, Sql, Tailwind Css, React Native**
 
 - 📫 How to reach me **vaddalanarasimha@gmail.com | narasimhavaddala@gmail.com**
 
